@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=0x4v%20Terminal&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-TR%20%7C%20AZ%20%7C%20EN%20%7C%20RU-000000?style=for-the-badge&logoColor=white" />
-</p>
-
----
 
 ## 🌍 <samp>root@0x4v:~# select_language --all</samp>
 
