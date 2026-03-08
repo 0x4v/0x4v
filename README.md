@@ -15,52 +15,53 @@
 
 <a name="tr"></a>
 <details open>
-  <summary><b>🇹🇷 Türkçe (Tıkla ve Oku)</b></summary>
+  <summary><b>🇹🇷 Türkçe (Tıkla/Kapat)</b></summary>
   <br>
-  Merhaba! Ben <b>0x4v</b>. Kali Linux üzerinde siber güvenlik ve otomasyon geliştiriyorum. 
-  Hız, gizlilik ve stabilite benim önceliğimdir. Profilimi ziyaret ettiğin için teşekkürler!
+  Merhaba! Ben <b>0x4v</b>. 4 yıldır Linux ekosisteminde yaşıyorum. Siber güvenlik, Java/Kotlin ile mobil/backend geliştirme, C ile düşük seviyeli programlama ve Python ile otomasyon konularında uzmanlaşıyorum. Profilime hoş geldin!
 </details>
 
 <a name="az"></a>
-<details>
-  <summary><b>🇦🇿 Azərbaycanca (Kliklə və Oxu)</b></summary>
+<details id="az">
+  <summary><b>🇦🇿 Azərbaycanca (Kliklə/Bağla)</b></summary>
   <br>
-  Salam! Mən <b>0x4v</b>. Kali Linux üzərində kiber təhlükəsizlik və avtomatlaşdırma ilə məşğulam. 
-  Terminal mənim dünyamdır. Profilimə xoş gəlmisiniz!
+  Salam! Mən <b>0x4v</b>. 4 ildir ki, Linux ekosistemindəyəm. Kiber təhlükəsizlik, Java/Kotlin ilə mobil/backend inkişafı, C ilə aşağı səviyyəli proqramlaşdırma və Python ilə avtomatlaşdırma sahələrində çalışıram. Xoş gəlmisiniz!
 </details>
 
 <a name="en"></a>
-<details>
-  <summary><b>🇺🇸 English (Click to Read)</b></summary>
+<details id="en">
+  <summary><b>🇺🇸 English (Click/Close)</b></summary>
   <br>
-  Hi! I'm <b>0x4v</b>. I'm focusing on cybersecurity, penetration testing, and automation on Kali Linux. 
-  I build secure and efficient systems. Welcome to my digital workspace!
+  Hi! I'm <b>0x4v</b>. With 4 years of Linux experience, I specialize in cybersecurity, Java/Kotlin development, C low-level programming, and Python automation. Welcome to my digital space!
 </details>
 
 <a name="ru"></a>
-<details>
-  <summary><b>🇷🇺 Русский (Нажмите, чтобы прочитать)</b></summary>
+<details id="ru">
+  <summary><b>🇷🇺 Русский (Нажмите/Закрыть)</b></summary>
   <br>
-  Привет! Я <b>0x4v</b>. Специализируюсь на кибербезопасности и автоматизации в Kali Linux. 
-  Терминал — это мой стиль жизни. Добро пожаловать в мой профиль!
+  Привет! Я <b>0x4v</b>. Уже 4 года я в экосистеме Linux. Специализируюсь на кибербезопасности, разработке на Java/Kotlin, низкоуровневом программировании на C и автоматизации на Python. Добро пожаловать!
 </details>
 
 ---
 
-## 🛠️ <samp>root@0x4v:~# ls --technologies</samp>
+## 🛠️ <samp>root@0x4v:~# ls --skills</samp>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
 
-## 📊 <samp>root@0x4v:~# fetch --github-stats</samp>
+## 📊 <samp>root@0x4v:~# fetch --stats</samp>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x4v&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&border_color=30363d" width="48%" />
@@ -74,7 +75,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-green?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/0x4v?label=Followers&style=flat-square&color=000000" />
-  <img src="https://img.shields.io/badge/Security-Verified-black?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime-4_Years_Linux-white?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Scanning-green?style=flat-square" />
 </p>
