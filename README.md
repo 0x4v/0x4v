@@ -60,10 +60,6 @@
 
 ## 📊 <samp>root@0x4v:~# fetch --stats</samp>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x4v&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&border_color=30363d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x4v&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&border_color=30363d" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x4v&theme=dark&background=000000&fire=DD2727&ring=FFFFFF&currStreakNum=FFFFFF&border=30363d" width="97%" />
