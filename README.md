@@ -11,7 +11,7 @@
 ## 🌍 <samp>root@0x4v:~# select_language --active</samp>
 
 <a name="tr"></a>
-<details open>
+<details id="tr">
   <summary><b>🇹🇷 Türkçe (Tıkla/Kapat)</b></summary>
   <br>
   Merhaba! Ben <b>0x4v</b>. 4 yıldır Linux ekosisteminde yaşıyorum. Siber güvenlik, Java/Kotlin ile mobil/backend geliştirme, C ile düşük seviyeli programlama ve Python ile otomasyon konularında uzmanlaşıyorum. Profilime hoş geldin!
