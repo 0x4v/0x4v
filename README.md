@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=0x4v%20Security&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <p align="center">
   <a href="#tr"> <img src="https://img.shields.io/badge/TURKISH-000000?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
